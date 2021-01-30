@@ -22,6 +22,8 @@ body {
 }
 
 .logo {
-  max-height: 32px;
+  max-height: 22px;
   max-width: 100%;
 }
+
+.kaigyo { display: inline-block; }
